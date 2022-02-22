@@ -10,7 +10,7 @@ html {
 body {
   max-width: 375px;
   margin: auto;
-  background-color: #000000;s
+  background-color: #000000;
   font-family: "Open Sans", 400;
   font-size: 17px;
 }
@@ -20,24 +20,24 @@ img {
 }
 
 p {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 figcaption {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
-.header_site h1 {
+.header-site h1 {
   margin-left: 30px;
   margin-top: 50px;
   font-size: 25px;
 }
 
-.header_site div {
+.header-site div {
   margin-left: 27px;
   margin-right: 27px;
   border: 2px white solid;
@@ -45,17 +45,17 @@ figcaption {
   padding-bottom: 30px;
   color: white;
   width: 316px;
-  background-image: url("../img/code.jpg")
+  background-image: url("../img/code.jpg");
 }
 
-.header_site p {
+.header-site p {
   margin-left: 30px;
   margin-right: 30px;
   color: white;
   font-size: 16px;
 }
 
-.header_site h1 {
+.header-site h1 {
   color: white;
 }
 .introduction {
@@ -82,7 +82,7 @@ figcaption {
 }
 
 figure {
-  box-shadow: 0px 8px 15px 4px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 15px 4px rgba(0, 0, 0, 0.2);
   margin-right: 30px;
   margin-left: 30px;
   margin-bottom: 30px;
@@ -124,7 +124,7 @@ article h1 {
   margin-left: 30px;
 }
 
-.information {
+.informations {
   opacity: 0.5;
 }
 
@@ -132,7 +132,7 @@ article h1 {
   color: #000000;
 }
 
-.auteur {
+.author {
   color: #2afca6;
 }
 
@@ -144,7 +144,7 @@ header h1 {
   color: rgb(0, 0, 0);
 }
 
-.footer_site p {
+.footer-site p {
   color: white;
   font-size: 10px;
   margin-bottom: 20px;
@@ -176,4 +176,4 @@ h1 {
   font-size: 17px;
   font-weight: bold;
   color: #000000;
-
+}
